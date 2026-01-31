@@ -20,4 +20,4 @@ Projeto CRUD completo desenvolvido com HTML, CSS, JavaScript, Node.js, Express e
 ```bash
 cd backend
 npm install
-node index.js
+node backend/index.js
