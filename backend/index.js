@@ -14,7 +14,7 @@ app.use(express.json());
 
 // rota raiz
 app.get("/", (req, res) => {
-  res.send("API rodando 🚀");
+  res.send("API rodando");
 });
 
 // criar usuarios POST
